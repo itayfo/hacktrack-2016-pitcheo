@@ -1,0 +1,29 @@
+{
+  "name": "hacktract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "dicer": "^0.2.5",
+    "ee-first": "^1.1.1",
+    "express": "^4.13.4",
+    "imagemagick": "^0.1.3",
+    "inherits": "^2.0.1",
+    "ip": "~1.1.2",
+    "media-typer": "^0.3.0",
+    "mime-types": "^2.1.10",
+    "mongodb": "^2.1.16",
+    "mongoose": "^4.4.12",
+    "multer": "^1.1.0",
+    "node-thumbnail": "^0.6.5",
+    "readable-stream": "^2.1.0",
+    "request": "^2.71.0",
+    "video-thumb": "0.0.2"
+  }
+}
